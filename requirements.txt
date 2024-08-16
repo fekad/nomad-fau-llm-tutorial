@@ -1,0 +1,6 @@
+torch 
+numpy 
+rdkit 
+pandas 
+dspy
+litellm
